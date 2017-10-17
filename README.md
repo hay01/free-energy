@@ -1,2 +1,4 @@
 # free-energy
-continuation of thesis research into free energy bounds on plasma
+The goal is to place a sharp limit on the energy that might be extracted with waves from the birth alpha particle distribution in an infinite, homogeneous plasma. A resolution would hold particular significance for the channeling of alpha particle energy in fusion devices as well as laser-plasma interactions. In Hamiltonian systems, the 'restacking' algorithm for the redistribution of particle density in phase space provides a bound consistent with Liouville's theorem.
+
+However, in dissipative systems far from thermodynamic equilibrium, the phase space evolution is more complicated and the bound is unknown. In the ubiquitous quasilinear regime of wave-particle interaction, waves effectively diffuse particles throughout the phase space. We bound the extractable energy in an N-level system under the action of general diffusive processes that equalize two levels' populations. The space of states accessible with similar level-mixing operations has been considered in many other contexts, ranging from economic inequality to chemical reaction kinetics.
